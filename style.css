@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 20px;;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.carousel-item p{
+    color:#707070;
+}
+.carousel-bg{
+    background:url(images/bg-1.png) no-repeat;
+    background-position: center center;
+
+}
+.buy-nw-button{
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding:10px 20px;
+    cursor: pointer;
+}
+.see h4{
+    color:#FFA411 ;
+    font-size: 16px;
+    cursor: pointer;
+   
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 5px whitesmoke ;
+}
+.card p{
+    color:#707070;
+   
+}
+.smart-bg{
+    background-image: url(images/bg-2.png) no-repeat;
+    background-position: left center;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
